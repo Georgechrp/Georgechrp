@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm George Christopoulos
 
-<!--
-**Georgechrp/Georgechrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics student at the University of Piraeus  
+📱 Currently working on my **thesis project in Android development**  
+💡 Passionate about building apps, solving problems, and learning new technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeChristopoulos&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Projects & Interests
+- 📱 Android apps with Jetpack Compose
+- 🔐 Authentication & Firebase integration
+- 🧠 Exploring AI-powered features in mobile apps
+- ☁️ Cloud sync and real-time databases
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn (optional)](https://linkedin.com/in/georgechrp)  
+- 📧 christopoulosg2@gmail.com
+
