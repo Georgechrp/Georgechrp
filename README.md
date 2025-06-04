@@ -9,6 +9,12 @@
 ## 📊 GitHub Stats
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georgechrp&show_icons=true&theme=tokyonight&hide_title=true)
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Georgechrp&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgechrp&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Georgechrp=&theme=tokyonight)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Georgechrp&color=blue)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/Georgechrp)
+
 
 ---
 
