@@ -1,6 +1,6 @@
 # 👋 Hi, I'm George Christopoulos
 
-🎓 Informatics student at the University of Piraeus  
+🎓 B.Sc. in Informatics, University of Piraeus Graduate
 📱 Currently working on my **thesis project in Android development**  
 💡 Passionate about building apps, solving problems, and learning new technologies
 
@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-003B57?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
@@ -35,6 +39,7 @@
 ---
 
 ## 📫 Let's Connect
+- 🌐 [Website / Portfolio](https://georgioschristopoulos.info/)  
 - 💼 [LinkedIn](https://linkedin.com/in/georgechrp)  
 - 📧 christopoulosg2@gmail.com
 
