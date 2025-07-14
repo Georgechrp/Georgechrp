@@ -1,8 +1,9 @@
 # 👋 Hi, I'm George Christopoulos
 
-🎓 B.Sc. in Informatics, University of Piraeus Graduate
-📱 Currently working on my **thesis project in Android development**  
+🎓 B.Sc. in Informatics, University of Piraeus Graduate  
+📱 Completed my **thesis project in Android development** – [View Presentation](https://georgioschristopoulos.info/assets/mythesis/index.html)  
 💡 Passionate about building apps, solving problems, and learning new technologies
+
 
 ---
 
@@ -31,11 +32,11 @@
 ---
 
 ## 🌱 Projects & Interests
+- 🎓 Thesis project: Chordio – a Firebase-powered chord management app
 - 📱 Android apps with Jetpack Compose
 - 🔐 Authentication & Firebase integration
 - 🧠 Exploring AI-powered features in mobile apps
 - ☁️ Cloud sync and real-time databases
-
 ---
 
 ## 📫 Let's Connect
