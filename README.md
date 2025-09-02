@@ -33,7 +33,7 @@
 
 ## 🌱 Projects & Interests
 - 🎓 Thesis project: Chordio – a Firebase-powered chord management app
-- 📱 Android apps with Jetpack Compose
+- 📱 Android apps with Jetpack Compose | Learning Hilt, Retrofit, Coil
 - 🔐 Authentication & Firebase integration
 - 🧠 Exploring AI-powered features in mobile apps
 - ☁️ Cloud sync and real-time databases
