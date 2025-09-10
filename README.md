@@ -1,10 +1,10 @@
 # 👋 Hi, I'm George Christopoulos
 
-🎓 B.Sc. in Informatics, University of Piraeus
+🎓 B.Sc. in Informatics, University of Piraeus  
 💡 Mobile Software Engineer - Passionate about building useful apps and exploring new tech
 
 ## About Me
-- 🔨 Built Chordio – my thesis project, a Firebase-powered chord management app [Presentation](https://georgioschristopoulos.info/assets/mythesis/index.html)  
+- 🔨 Built Chordio – my thesis project, a Firebase-powered chord management app [(Click Here)](https://georgioschristopoulos.info/assets/mythesis/index.html)  
 - 🌱 Learning Jetpack Compose, Hilt, Retrofit, Coil
 - ☁️ Interested in cloud sync, real-time databases, and AI in mobile apps
 
