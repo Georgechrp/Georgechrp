@@ -1,19 +1,12 @@
 # 👋 Hi, I'm George Christopoulos
 
-🎓 B.Sc. in Informatics, University of Piraeus Graduate  
-📱 Completed my **thesis project in Android development** – [View Presentation](https://georgioschristopoulos.info/assets/mythesis/index.html)  
-💡 Passionate about building apps, solving problems, and learning new technologies
+🎓 B.Sc. in Informatics, University of Piraeus
+💡 Mobile Software Engineer - Passionate about building useful apps and exploring new tech
 
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Georgechrp&theme=tokyonight)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgechrp&layout=compact&theme=tokyonight)
-
----
+## About Me
+- 🔨 Built Chordio – my thesis project, a Firebase-powered chord management app [Presentation](https://georgioschristopoulos.info/assets/mythesis/index.html)  
+- 🌱 Learning Jetpack Compose, Hilt, Retrofit, Coil
+- ☁️ Interested in cloud sync, real-time databases, and AI in mobile apps
 
 ## 🧰 Languages & Tools
 
@@ -31,18 +24,21 @@
 
 ---
 
-## 🌱 Projects & Interests
-- 🎓 Thesis project: Chordio – a Firebase-powered chord management app
-- 📱 Android apps with Jetpack Compose | Learning Hilt, Retrofit, Coil
-- 🔐 Authentication & Firebase integration
-- 🧠 Exploring AI-powered features in mobile apps
-- ☁️ Cloud sync and real-time databases
----
-
 ## 📫 Let's Connect
 - 🌐 [Website / Portfolio](https://georgioschristopoulos.info/)  
 - 💼 [LinkedIn](https://linkedin.com/in/georgechrp)  
 - 📧 christopoulosg2@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Georgechrp&theme=tokyonight)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgechrp&layout=compact&theme=tokyonight)
+
+---
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Georgechrp&color=blue)
